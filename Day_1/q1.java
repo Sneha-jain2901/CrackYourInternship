@@ -1,3 +1,4 @@
+package Day_1;
 //287. Find the Duplicate Number
 
 class Solution {
